@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Matheus Andrade 🖐️</h1>
+<h1 align="center">Olá! Eu sou o Matheus Pereira 🖐️</h1>
 
 <p align="center">
   <i>Amante de Tecnologia e de grandes histórias</i>
